@@ -10,8 +10,8 @@ Financial inclusion means that individuals and businesses have access to useful 
 The research problem was to figure out how we can predict which individuals are most likely to have or use a bank account.
 This Project is mostly EDA(Exploratory Data Analysis) oriented
 
-## software requirements
+## Requirements
 * [Google colab notebook](https://colab.research.google.com/) or Jupyter notebook to run python commands
 * [dataset](http://bit.ly/FinancialDataset) and its description is given by this [link](http://bit.ly/VariableDefinitions)
-## license
+## License
 find license attached
